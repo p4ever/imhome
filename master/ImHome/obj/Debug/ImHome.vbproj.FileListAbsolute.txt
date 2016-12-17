@@ -1,0 +1,4 @@
+C:\Users\Alby\Source\Repos\imhome\master\ImHome\bin\Debug\ImHome.exe.config
+C:\Users\Alby\Source\Repos\imhome\master\ImHome\obj\Debug\ImHome.exe
+C:\Users\Alby\Source\Repos\imhome\master\ImHome\obj\Debug\ImHome.xml
+C:\Users\Alby\Source\Repos\imhome\master\ImHome\obj\Debug\ImHome.pdb
