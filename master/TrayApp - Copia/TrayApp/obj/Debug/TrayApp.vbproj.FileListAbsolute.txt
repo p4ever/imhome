@@ -1,0 +1,40 @@
+C:\Users\Alby\Documents\Visual Studio 2015\Projects\TrayApp\TrayApp\bin\Debug\TrayApp.exe
+C:\Users\Alby\Documents\Visual Studio 2015\Projects\TrayApp\TrayApp\bin\Debug\TrayApp.pdb
+C:\Users\Alby\Documents\Visual Studio 2015\Projects\TrayApp\TrayApp\bin\Debug\TrayApp.xml
+C:\Users\Alby\Documents\Visual Studio 2015\Projects\TrayApp\TrayApp\obj\Debug\TrayApp.vbprojResolveAssemblyReference.cache
+C:\Users\Alby\Documents\Visual Studio 2015\Projects\TrayApp\TrayApp\obj\Debug\TrayApp.MainForm.resources
+C:\Users\Alby\Documents\Visual Studio 2015\Projects\TrayApp\TrayApp\obj\Debug\TrayApp.PopupForm.resources
+C:\Users\Alby\Documents\Visual Studio 2015\Projects\TrayApp\TrayApp\obj\Debug\TrayApp.Resources.resources
+C:\Users\Alby\Documents\Visual Studio 2015\Projects\TrayApp\TrayApp\obj\Debug\TrayApp.vbproj.GenerateResource.Cache
+C:\Users\Alby\Documents\Visual Studio 2015\Projects\TrayApp\TrayApp\obj\Debug\TrayApp.exe
+C:\Users\Alby\Documents\Visual Studio 2015\Projects\TrayApp\TrayApp\obj\Debug\TrayApp.xml
+C:\Users\Alby\Documents\Visual Studio 2015\Projects\TrayApp\TrayApp\obj\Debug\TrayApp.pdb
+C:\Users\Alby\Documents\Visual Studio 2015\Projects\TrayApp\TrayApp\bin\Debug\TrayApp.exe.config
+C:\Users\Alby\Documents\Visual Studio 2015\Projects\TrayApp\TrayApp\bin\Debug\libnodavemod.net.dll
+C:\Users\Alby\Documents\Visual Studio 2015\Projects\TrayApp\TrayApp\bin\Debug\libnodavemod.net.pdb
+C:\Users\Alby\Documents\Visual Studio 2015\Projects\TrayApp - Copia\TrayApp\bin\Debug\TrayApp.exe.config
+C:\Users\Alby\Documents\Visual Studio 2015\Projects\TrayApp - Copia\TrayApp\obj\Debug\TrayApp.exe
+C:\Users\Alby\Documents\Visual Studio 2015\Projects\TrayApp - Copia\TrayApp\obj\Debug\TrayApp.xml
+C:\Users\Alby\Documents\Visual Studio 2015\Projects\TrayApp - Copia\TrayApp\obj\Debug\TrayApp.pdb
+C:\Users\Alby\Documents\Visual Studio 2015\Projects\TrayApp - Copia\TrayApp\obj\Debug\TrayApp.vbprojResolveAssemblyReference.cache
+C:\Users\Alby\Documents\Visual Studio 2015\Projects\TrayApp - Copia\TrayApp\obj\Debug\TrayApp.MainForm.resources
+C:\Users\Alby\Documents\Visual Studio 2015\Projects\TrayApp - Copia\TrayApp\obj\Debug\TrayApp.PopupForm.resources
+C:\Users\Alby\Documents\Visual Studio 2015\Projects\TrayApp - Copia\TrayApp\obj\Debug\TrayApp.Resources.resources
+C:\Users\Alby\Documents\Visual Studio 2015\Projects\TrayApp - Copia\TrayApp\obj\Debug\TrayApp.vbproj.GenerateResource.Cache
+C:\Users\Alby\Documents\Visual Studio 2015\Projects\TrayApp - Copia\TrayApp\bin\Debug\TrayApp.exe
+C:\Users\Alby\Documents\Visual Studio 2015\Projects\TrayApp - Copia\TrayApp\bin\Debug\TrayApp.pdb
+C:\Users\Alby\Documents\Visual Studio 2015\Projects\TrayApp - Copia\TrayApp\bin\Debug\TrayApp.xml
+C:\Users\Alby\Documents\Visual Studio 2015\Projects\TrayApp - Copia\TrayApp\bin\Debug\libnodavemod.net.dll
+C:\Users\Alby\Documents\Visual Studio 2015\Projects\TrayApp - Copia\TrayApp\bin\Debug\libnodavemod.net.pdb
+C:\Users\Alby\Source\Repos\imhome\TrayApp - Copia\TrayApp\bin\Debug\TrayApp.exe.config
+C:\Users\Alby\Source\Repos\imhome\TrayApp - Copia\TrayApp\obj\Debug\TrayApp.exe
+C:\Users\Alby\Source\Repos\imhome\TrayApp - Copia\TrayApp\obj\Debug\TrayApp.xml
+C:\Users\Alby\Source\Repos\imhome\TrayApp - Copia\TrayApp\obj\Debug\TrayApp.pdb
+C:\Users\Alby\Source\Repos\imhome\TrayApp - Copia\TrayApp\bin\Debug\TrayApp.exe
+C:\Users\Alby\Source\Repos\imhome\TrayApp - Copia\TrayApp\bin\Debug\TrayApp.pdb
+C:\Users\Alby\Source\Repos\imhome\TrayApp - Copia\TrayApp\bin\Debug\TrayApp.xml
+C:\Users\Alby\Source\Repos\imhome\TrayApp - Copia\TrayApp\obj\Debug\TrayApp.vbprojResolveAssemblyReference.cache
+C:\Users\Alby\Source\Repos\imhome\TrayApp - Copia\TrayApp\obj\Debug\TrayApp.MainForm.resources
+C:\Users\Alby\Source\Repos\imhome\TrayApp - Copia\TrayApp\obj\Debug\TrayApp.PopupForm.resources
+C:\Users\Alby\Source\Repos\imhome\TrayApp - Copia\TrayApp\obj\Debug\TrayApp.Resources.resources
+C:\Users\Alby\Source\Repos\imhome\TrayApp - Copia\TrayApp\obj\Debug\TrayApp.vbproj.GenerateResource.Cache
