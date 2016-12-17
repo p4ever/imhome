@@ -21,3 +21,5 @@ Use different timer inteval when the device is connected to the network (a long 
 Add the possibility to change that intevals from a GUI;
 
 Add the possibility to change the software you want to launch (righ now first it launches mipony, then if no downloads start, it replaces it with utorrent) and the ability to insert multiple MAC devices.
+
+Add the possibility to change the IP address range
