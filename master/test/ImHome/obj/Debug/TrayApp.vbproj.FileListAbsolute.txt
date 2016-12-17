@@ -38,3 +38,19 @@ C:\Users\Alby\Source\Repos\imhome\master\TrayApp - Copia\TrayApp\obj\Debug\ImHom
 C:\Users\Alby\Source\Repos\imhome\master\TrayApp - Copia\TrayApp\obj\Debug\ImHome.exe
 C:\Users\Alby\Source\Repos\imhome\master\TrayApp - Copia\TrayApp\obj\Debug\ImHome.xml
 C:\Users\Alby\Source\Repos\imhome\master\TrayApp - Copia\TrayApp\obj\Debug\ImHome.pdb
+C:\Users\Alby\Source\Repos\imhome\master\ImHome\TrayApp\bin\Debug\ImHome.exe.config
+C:\Users\Alby\Source\Repos\imhome\master\ImHome\TrayApp\obj\Debug\ImHome.exe
+C:\Users\Alby\Source\Repos\imhome\master\ImHome\TrayApp\obj\Debug\ImHome.xml
+C:\Users\Alby\Source\Repos\imhome\master\ImHome\TrayApp\obj\Debug\ImHome.pdb
+C:\Users\Alby\Source\Repos\imhome\master\test\TrayApp\bin\Debug\TrayApp.exe.config
+C:\Users\Alby\Source\Repos\imhome\master\test\TrayApp\bin\Debug\TrayApp.exe
+C:\Users\Alby\Source\Repos\imhome\master\test\TrayApp\bin\Debug\TrayApp.pdb
+C:\Users\Alby\Source\Repos\imhome\master\test\TrayApp\bin\Debug\TrayApp.xml
+C:\Users\Alby\Source\Repos\imhome\master\test\TrayApp\obj\Debug\TrayApp.vbprojResolveAssemblyReference.cache
+C:\Users\Alby\Source\Repos\imhome\master\test\TrayApp\obj\Debug\TrayApp.MainForm.resources
+C:\Users\Alby\Source\Repos\imhome\master\test\TrayApp\obj\Debug\TrayApp.PopupForm.resources
+C:\Users\Alby\Source\Repos\imhome\master\test\TrayApp\obj\Debug\TrayApp.Resources.resources
+C:\Users\Alby\Source\Repos\imhome\master\test\TrayApp\obj\Debug\TrayApp.vbproj.GenerateResource.Cache
+C:\Users\Alby\Source\Repos\imhome\master\test\TrayApp\obj\Debug\TrayApp.exe
+C:\Users\Alby\Source\Repos\imhome\master\test\TrayApp\obj\Debug\TrayApp.xml
+C:\Users\Alby\Source\Repos\imhome\master\test\TrayApp\obj\Debug\TrayApp.pdb
