@@ -15,6 +15,7 @@ Right now you have no choise than launch at first mipony, then if no downloads s
 Of course as soon as you are back home it closes the running app, so that your bandwidth is free for you.
 
 TO DO:
+
 Use different timer inteval when the device is connected to the network (a long one) and when the device is disconnected from the network (short one);
 
 Add the possibility to change that intevals from a GUI;
