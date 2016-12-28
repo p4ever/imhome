@@ -3,7 +3,7 @@ I always told myself that I should find a way to automatically launch some appli
 The purpose of this software should exactly be that one, when you left home, and some device comes with you (ex. your smartphone)
 the software recognizes that missing, and launches some application.
 
-Well than, now is time for some tecnical description:
+Well then, now is time for some technical description:
 
 With 3 threads the software scan your whole LAN and using arp it looks for the MAC address of the connected devices, if it founds the one you have inserted it will close the application(s) it has launched before.
 When the selected MAC address disappear from the network it will launch the selected application(s)
